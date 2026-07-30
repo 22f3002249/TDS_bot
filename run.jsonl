@@ -1,2 +1,3 @@
 {"type": "incoming", "chat_id": 1280731492, "text": "What is the national animal of India? RepReply with ONLY a JSON object like {\"animal\":\"<animal name>\"}", "timestamp": 1785378196.3629262}
 {"event": "trying_model", "model": "gemini-3.6-flash", "timestamp": 1785378199.434149}
+{"event": "model_success", "model": "gemini-3.6-flash", "output": "{\"animal\": \"Bengal Tiger\"}", "timestamp": 1785378205.612475}
