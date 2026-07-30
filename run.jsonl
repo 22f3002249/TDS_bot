@@ -1,4 +1,1 @@
-{"type": "incoming", "chat_id": 1280731492, "text": "What is the national animal of India? Reply with ONLY a JSON object like {\"animal\":\"<animal name>\"}", "timestamp": 1785378348.7195914}
-{"event": "trying_model", "model": "gemini-3.6-flash", "timestamp": 1785378352.285717}
-{"event": "model_success", "model": "gemini-3.6-flash", "output": "{\"animal\":\"Bengal Tiger\"}", "timestamp": 1785378358.4716394}
-{"type": "outgoing", "chat_id": 1280731492, "model_used": "gemini-3.6-flash", "text": "{\"animal\": \"Bengal Tiger\", \"log_url\": \"https://raw.githubusercontent.com/22f3002249/TDS_bot/main/run.jsonl\"}", "timestamp": 1785378361.6882353}
+{"type": "incoming", "chat_id": 1280731492, "text": "I'm going to ask a follow-up question. Just acknowledge - reply with ONLY {\"status\":\"ready\"}", "timestamp": 1785378627.1283092}
