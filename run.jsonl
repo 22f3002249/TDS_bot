@@ -1,1 +1,2 @@
 {"type": "incoming", "chat_id": 1280731492, "text": "I'm going to ask a follow-up question. Just acknowledge - reply with ONLY {\"status\":\"ready\"}", "timestamp": 1785378627.1283092}
+{"event": "trying_model", "model": "gemini-3.6-flash", "timestamp": 1785378630.553511}
