@@ -9,7 +9,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, ContextTypes, filte
 # --- Configuration ---
 TELEGRAM_BOT_TOKEN = os.environ.get("TELEGRAM_BOT_TOKEN", "PASTE_YOUR_BOTFATHER_TOKEN_HERE")
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "PASTE_YOUR_AI_STUDIO_API_KEY_HERE")
-LOG_URL = "https://github.com/22f3002249/TDS_bot/run.jsonl"
+LOG_URL = "https://raw.githubusercontent.com/22f3002249/TDS_bot/main/run.jsonl"
 
 GEMINI_MODELS = [
     os.environ.get("PRIMARY_MODEL", "gemini-3.6-flash"),         # Primary Model
