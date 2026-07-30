@@ -1,3 +1,4 @@
 {"type": "incoming", "chat_id": 1280731492, "text": "I'm going to ask a follow-up question. Just acknowledge - reply with ONLY {\"status\":\"ready\"}", "timestamp": 1785378627.1283092}
 {"event": "trying_model", "model": "gemini-3.6-flash", "timestamp": 1785378630.553511}
 {"event": "model_success", "model": "gemini-3.6-flash", "output": "{\"status\":\"ready\"}", "timestamp": 1785378635.6589055}
+{"type": "outgoing", "chat_id": 1280731492, "model_used": "gemini-3.6-flash", "text": "{\"status\": \"ready\", \"log_url\": \"https://raw.githubusercontent.com/22f3002249/TDS_bot/main/run.jsonl\"}", "timestamp": 1785378639.1941392}
